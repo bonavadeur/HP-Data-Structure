@@ -1,0 +1,998 @@
+
+
+
+										Type of input: random
+
+
+Algorithm: shell sort
+Size of input: 100000 element
+Time to sort this array is: 32.370861 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2372
+........................................................
+Algorithm: merge sort
+Size of input: 100000 element
+Time to sort this array is: 30.140941 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 100000 element
+Time to sort this array is: 39.200120 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2459
+........................................................
+Algorithm: quick sort
+Size of input: 100000 element
+Time to sort this array is: 18.346759 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2401
+........................................................
+Algorithm: quick3 sort
+Size of input: 100000 element
+Time to sort this array is: 17.849279 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2418
+........................................................
+Algorithm: bubble sort
+Size of input: 100000 element
+Time to sort this array is: 42563.992445 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: selection sort
+Size of input: 100000 element
+Time to sort this array is: 13565.765804 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 1658
+........................................................
+Algorithm: insertion sort
+Size of input: 100000 element
+Time to sort this array is: 7613.608756 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+
+
+
+										Type of input: duplicated
+
+
+Algorithm: shell sort
+Size of input: 100000 element
+Time to sort this array is: 30.905568 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 37648
+........................................................
+Algorithm: merge sort
+Size of input: 100000 element
+Time to sort this array is: 32.813518 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 100000 element
+Time to sort this array is: 41.091803 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 41581
+........................................................
+Algorithm: quick sort
+Size of input: 100000 element
+Time to sort this array is: 18.095701 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 37674
+........................................................
+Algorithm: quick3 sort
+Size of input: 100000 element
+Time to sort this array is: 17.306900 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 37695
+........................................................
+Algorithm: bubble sort
+Size of input: 100000 element
+Time to sort this array is: 42567.606697 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: selection sort
+Size of input: 100000 element
+Time to sort this array is: 13609.249327 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 25157
+........................................................
+Algorithm: insertion sort
+Size of input: 100000 element
+Time to sort this array is: 7524.843326 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+
+
+
+										Type of input: nsorted
+
+
+Algorithm: shell sort
+Size of input: 100000 element
+Time to sort this array is: 8.617576 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: merge sort
+Size of input: 100000 element
+Time to sort this array is: 20.852822 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 100000 element
+Time to sort this array is: 32.103928 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 4437
+........................................................
+Algorithm: quick sort
+Size of input: 100000 element
+Time to sort this array is: 10364.906140 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 4586
+........................................................
+Algorithm: quick3 sort
+Size of input: 100000 element
+Time to sort this array is: 10398.516984 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 4586
+........................................................
+Algorithm: bubble sort
+Size of input: 100000 element
+Time to sort this array is: 12982.417084 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: selection sort
+Size of input: 100000 element
+Time to sort this array is: 13584.064930 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: insertion sort
+Size of input: 100000 element
+Time to sort this array is: 0.557966 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+
+
+
+										Type of input: sorted
+
+
+Algorithm: shell sort
+Size of input: 100000 element
+Time to sort this array is: 7.001362 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: merge sort
+Size of input: 100000 element
+Time to sort this array is: 23.954754 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 100000 element
+Time to sort this array is: 34.680251 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 4483
+........................................................
+Algorithm: quick sort
+Size of input: 100000 element
+Time to sort this array is: 10324.381841 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 4663
+........................................................
+Algorithm: quick3 sort
+Size of input: 100000 element
+Time to sort this array is: 10348.754352 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 4663
+........................................................
+Algorithm: bubble sort
+Size of input: 100000 element
+Time to sort this array is: 13024.183176 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: selection sort
+Size of input: 100000 element
+Time to sort this array is: 13545.199929 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: insertion sort
+Size of input: 100000 element
+Time to sort this array is: 0.411020 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+
+
+
+										Type of input: rsorted
+
+
+Algorithm: shell sort
+Size of input: 100000 element
+Time to sort this array is: 10.974779 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 1678
+........................................................
+Algorithm: merge sort
+Size of input: 100000 element
+Time to sort this array is: 25.508252 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 100000 element
+Time to sort this array is: 32.035155 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 3981
+........................................................
+Algorithm: quick sort
+Size of input: 100000 element
+Time to sort this array is: 10830.047652 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 168
+........................................................
+Algorithm: quick3 sort
+Size of input: 100000 element
+Time to sort this array is: 10920.261472 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 106
+........................................................
+Algorithm: bubble sort
+Size of input: 100000 element
+Time to sort this array is: 34249.027520 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: selection sort
+Size of input: 100000 element
+Time to sort this array is: 14475.600358 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2341
+........................................................
+Algorithm: insertion sort
+Size of input: 100000 element
+Time to sort this array is: 15013.008303 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+
+
+
+										Type of input: random
+
+
+Algorithm: shell sort
+Size of input: 100000 element
+Time to sort this array is: 34.478361 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2440
+........................................................
+Algorithm: merge sort
+Size of input: 100000 element
+Time to sort this array is: 34.436182 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 100000 element
+Time to sort this array is: 41.889325 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2467
+........................................................
+Algorithm: quick sort
+Size of input: 100000 element
+Time to sort this array is: 18.306223 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2491
+........................................................
+Algorithm: quick3 sort
+Size of input: 100000 element
+Time to sort this array is: 19.033789 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2510
+........................................................
+Algorithm: bubble sort
+Size of input: 100000 element
+Time to sort this array is: 42642.311304 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: selection sort
+Size of input: 100000 element
+Time to sort this array is: 13566.826673 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 1627
+........................................................
+Algorithm: insertion sort
+Size of input: 100000 element
+Time to sort this array is: 7511.552113 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+
+
+
+										Type of input: random
+
+
+Algorithm: shell sort
+Size of input: 1000000 element
+Time to sort this array is: 432.437029 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 24220
+........................................................
+Algorithm: merge sort
+Size of input: 1000000 element
+Time to sort this array is: 354.476692 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 1000000 element
+Time to sort this array is: 517.362080 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 28059
+........................................................
+Algorithm: quick sort
+Size of input: 1000000 element
+Time to sort this array is: 207.719914 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 24316
+........................................................
+Algorithm: quick3 sort
+Size of input: 1000000 element
+Time to sort this array is: 207.305196 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 24252
+........................................................
+
+
+
+										Type of input: duplicated
+
+
+Algorithm: shell sort
+Size of input: 1000000 element
+Time to sort this array is: 419.520503 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 377039
+........................................................
+Algorithm: merge sort
+Size of input: 1000000 element
+Time to sort this array is: 341.134524 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 1000000 element
+Time to sort this array is: 516.932558 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 442452
+........................................................
+Algorithm: quick sort
+Size of input: 1000000 element
+Time to sort this array is: 202.570411 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 377941
+........................................................
+Algorithm: quick3 sort
+Size of input: 1000000 element
+Time to sort this array is: 205.232099 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 377066
+........................................................
+Algorithm: bubble sort
+Size of input: 1000000 element
+Time to sort this array is: 4474525.786858 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: selection sort
+Size of input: 1000000 element
+Time to sort this array is: 1434587.089002 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 251303
+........................................................
+Algorithm: insertion sort
+Size of input: 1000000 element
+Time to sort this array is: 804595.514557 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+
+
+
+										Type of input: rsorted
+
+
+Algorithm: shell sort
+Size of input: 1000000 element
+Time to sort this array is: 112.782412 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 35729
+........................................................
+Algorithm: merge sort
+Size of input: 1000000 element
+Time to sort this array is: 240.631512 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 1000000 element
+Time to sort this array is: 381.484013 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 39084
+........................................................
+Algorithm: bubble sort
+Size of input: 1000000 element
+Time to sort this array is: 3539249.345490 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: selection sort
+Size of input: 1000000 element
+Time to sort this array is: 1502514.171348 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 23110
+........................................................
+Algorithm: insertion sort
+Size of input: 1000000 element
+Time to sort this array is: 1570150.520745 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+
+
+
+										Type of input: rsorted
+
+
+Algorithm: bubble sort
+Size of input: 1000000 element
+Time to sort this array is: 3582613.652024 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: selection sort
+Size of input: 1000000 element
+Time to sort this array is: 1532663.994550 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 23137
+........................................................
+Algorithm: insertion sort
+Size of input: 1000000 element
+Time to sort this array is: 1643334.414810 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+
+
+
+										Type of input: random
+
+
+Algorithm: shell sort
+Size of input: 5000000 element
+Time to sort this array is: 3062.999113 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 120721
+........................................................
+Algorithm: merge sort
+Size of input: 5000000 element
+Time to sort this array is: 1954.759525 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 5000000 element
+Time to sort this array is: 3850.198045 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 124422
+........................................................
+Algorithm: quick sort
+Size of input: 5000000 element
+Time to sort this array is: 1219.477081 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 120882
+........................................................
+Algorithm: quick3 sort
+Size of input: 5000000 element
+Time to sort this array is: 1191.648654 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 120572
+........................................................
+
+
+
+										Type of input: duplicated
+
+
+Algorithm: shell sort
+Size of input: 5000000 element
+Time to sort this array is: 2996.540805 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 1887389
+........................................................
+Algorithm: merge sort
+Size of input: 5000000 element
+Time to sort this array is: 2062.958223 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 5000000 element
+Time to sort this array is: 3740.612899 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2086328
+........................................................
+Algorithm: quick sort
+Size of input: 5000000 element
+Time to sort this array is: 1156.673576 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 1885965
+........................................................
+Algorithm: quick3 sort
+Size of input: 5000000 element
+Time to sort this array is: 1159.902084 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 1885561
+........................................................
+
+
+
+										Type of input: duplicated
+
+
+Algorithm: shell sort
+Size of input: 5000000 element
+Time to sort this array is: 2922.079113 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 1886325
+........................................................
+Algorithm: merge sort
+Size of input: 5000000 element
+Time to sort this array is: 2044.805243 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 5000000 element
+Time to sort this array is: 3809.409837 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2086441
+........................................................
+Algorithm: quick sort
+Size of input: 5000000 element
+Time to sort this array is: 1141.395001 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 1886210
+........................................................
+Algorithm: quick3 sort
+Size of input: 5000000 element
+Time to sort this array is: 1157.063955 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 1885926
+........................................................
+
+
+
+										Type of input: random
+
+
+Algorithm: shell sort
+Size of input: 10000000 element
+Time to sort this array is: 6388.303277 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 241546
+........................................................
+Algorithm: merge sort
+Size of input: 10000000 element
+Time to sort this array is: 4137.769575 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 10000000 element
+Time to sort this array is: 8876.916370 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 249089
+........................................................
+Algorithm: quick sort
+Size of input: 10000000 element
+Time to sort this array is: 2465.930716 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 242138
+........................................................
+Algorithm: quick3 sort
+Size of input: 10000000 element
+Time to sort this array is: 2552.104694 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 241825
+........................................................
+
+
+
+										Type of input: duplicated
+
+
+Algorithm: shell sort
+Size of input: 10000000 element
+Time to sort this array is: 6995.136718 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 3773356
+........................................................
+Algorithm: merge sort
+Size of input: 10000000 element
+Time to sort this array is: 4301.191210 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 10000000 element
+Time to sort this array is: 8871.102199 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 4173176
+........................................................
+Algorithm: quick sort
+Size of input: 10000000 element
+Time to sort this array is: 2400.690802 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 3773363
+........................................................
+Algorithm: quick3 sort
+Size of input: 10000000 element
+Time to sort this array is: 2461.034149 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 3773579
+........................................................
+
+
+
+										Type of input: duplicated
+
+
+Algorithm: shell sort
+Size of input: 10000000 element
+Time to sort this array is: 6750.724961 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 3773955
+........................................................
+
+
+
+										Type of input: random
+
+
+Algorithm: shell sort
+Size of input: 10000000 element
+Time to sort this array is: 6841.747298 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 242549
+........................................................
+
+
+
+										Type of input: random
+
+
+Algorithm: merge sort
+Size of input: 10000000 element
+Time to sort this array is: 4105.818562 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+
+
+
+										Type of input: random
+
+
+Algorithm: heap sort
+Size of input: 10000000 element
+Time to sort this array is: 8674.490033 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 249245
+........................................................
+
+
+
+										Type of input: random
+
+
+Algorithm: quick sort
+Size of input: 10000000 element
+Time to sort this array is: 2487.238608 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 242315
+........................................................
+
+
+
+										Type of input: random
+
+
+Algorithm: quick3 sort
+Size of input: 10000000 element
+Time to sort this array is: 2520.114533 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 242488
+........................................................
+
+
+
+										Type of input: duplicated
+
+
+Algorithm: quick3 sort
+Size of input: 10000000 element
+Time to sort this array is: 2533.096675 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 3771761
+........................................................
+
+
+
+										Type of input: duplicated
+
+
+Algorithm: quick sort
+Size of input: 10000000 element
+Time to sort this array is: 2437.748503 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 3771965
+........................................................
+
+
+
+										Type of input: duplicated
+
+
+Algorithm: heap sort
+Size of input: 10000000 element
+Time to sort this array is: 8812.187240 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 4173230
+........................................................
+
+
+
+										Type of input: duplicated
+
+
+Algorithm: merge sort
+Size of input: 10000000 element
+Time to sort this array is: 4221.921387 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+
+
+
+										Type of input: duplicated
+
+
+Algorithm: shell sort
+Size of input: 100000 element
+Time to sort this array is: 36.724947 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 37782
+........................................................
+Algorithm: merge sort
+Size of input: 100000 element
+Time to sort this array is: 31.701654 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 100000 element
+Time to sort this array is: 39.335630 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 41694
+........................................................
+Algorithm: quick sort
+Size of input: 100000 element
+Time to sort this array is: 17.995608 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 37609
+........................................................
+Algorithm: quick3 sort
+Size of input: 100000 element
+Time to sort this array is: 18.099870 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 37754
+........................................................
+
+
+
+										Type of input: random
+
+
+Algorithm: shell sort
+Size of input: 100000 element
+Time to sort this array is: 34.995113 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2344
+........................................................
+Algorithm: merge sort
+Size of input: 100000 element
+Time to sort this array is: 32.616740 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 100000 element
+Time to sort this array is: 38.944093 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2421
+........................................................
+Algorithm: quick sort
+Size of input: 100000 element
+Time to sort this array is: 18.029073 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2346
+........................................................
+Algorithm: quick3 sort
+Size of input: 100000 element
+Time to sort this array is: 18.371691 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2410
+........................................................
+
+
+
+										Type of input: nsorted
+
+
+Algorithm: shell sort
+Size of input: 100000000 element
+Time to sort this array is: 11468.643878 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: merge sort
+Size of input: 100000000 element
+Time to sort this array is: 29773.425019 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 100000000 element
+Time to sort this array is: 53091.698375 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 4480640
+........................................................
+
+
+
+										Type of input: random
+
+
+
+
+
+										Type of input: random
+
+
+Algorithm: shell sort
+Size of input: 100000000 element
+Time to sort this array is: 103121.688961 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2416900
+........................................................
+Algorithm: merge sort
+Size of input: 100000000 element
+Time to sort this array is: 45403.974082 miliseconds
+Memory usage is: 0
+This algorithm is stable
+........................................................
+Algorithm: heap sort
+Size of input: 100000000 element
+Time to sort this array is: 126218.287407 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2443347
+........................................................
+Algorithm: quick sort
+Size of input: 100000000 element
+Time to sort this array is: 28270.265705 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2416716
+........................................................
+Algorithm: quick3 sort
+Size of input: 100000000 element
+Time to sort this array is: 28712.797262 miliseconds
+Memory usage is: 0
+This algorithm is not stable
+Number of changes is: 2415879
+........................................................
